@@ -149,4 +149,12 @@
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0437-path-sum-iii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
