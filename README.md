@@ -146,14 +146,17 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0437-path-sum-iii) |
 ## Linked List
 |  |
@@ -170,4 +173,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
