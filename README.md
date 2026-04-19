@@ -151,6 +151,7 @@
 | [0112-path-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -160,6 +161,7 @@
 | [0112-path-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -169,6 +171,7 @@
 | [0112-path-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
