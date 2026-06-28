@@ -120,12 +120,14 @@
 | [0143-reorder-list](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -151,6 +153,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -178,6 +181,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -219,6 +223,11 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
