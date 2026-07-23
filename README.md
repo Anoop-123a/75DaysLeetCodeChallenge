@@ -163,6 +163,7 @@
 | [0437-path-sum-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [0437-path-sum-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0437-path-sum-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 ## String Matching
 |  |
 | ------- |
