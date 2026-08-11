@@ -35,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0155-min-stack](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 ## Queue
 |  |
 | ------- |
@@ -202,6 +205,7 @@
 | [0141-linked-list-cycle](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
