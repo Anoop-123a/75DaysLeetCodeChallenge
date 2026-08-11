@@ -25,6 +25,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -60,11 +62,13 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
+| [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -77,6 +81,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -143,6 +148,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -241,4 +247,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
