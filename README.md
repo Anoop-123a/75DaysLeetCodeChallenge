@@ -29,6 +29,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [3904-smallest-stable-index-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
