@@ -156,6 +156,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+| [1922-count-good-numbers](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
 |  |
@@ -227,6 +228,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
