@@ -125,6 +125,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
@@ -159,6 +160,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
@@ -279,6 +281,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
