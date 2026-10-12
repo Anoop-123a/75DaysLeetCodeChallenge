@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -38,6 +39,7 @@
 | [0001-two-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -62,6 +64,7 @@
 | [0020-valid-parentheses](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
@@ -127,6 +130,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -282,10 +286,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
@@ -295,4 +301,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
