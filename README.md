@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -132,6 +133,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Sliding Window
@@ -296,10 +298,12 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 ## Trie
 |  |
