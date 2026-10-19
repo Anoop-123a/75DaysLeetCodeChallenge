@@ -218,8 +218,9 @@ public:
         //  bool ans = SolvingUsingRec(stones, 1, k, stoneIndex);
 
         // index × jump
-        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
-        bool ans = SolvingUsingMemo(stones, 1, k, stoneIndex, dp);
+        // vector<vector<int>> dp(n, vector<int>(n + 1, -1));
+        // bool ans = SolvingUsingMemo(stones, 1, k, stoneIndex, dp);
+        bool ans=SolvingUsingTab(stones);
 
         return ans;
     }
