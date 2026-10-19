@@ -1,7 +1,9 @@
 class Solution {
 public:
-    bool SolvingUsingRec(vector<int>& stones, int index, int k, int prevValue) {
-        // Base case-->>
+    bool SolvingUsingRec(vector<int>& stones, int index, int k,
+                         unordered_map<int, int>& stoneIndex) {
+
+        // Base case
         if (index == stones.size() - 1) {
             return true;
         }
@@ -9,49 +11,71 @@ public:
         bool firstAns = false;
         bool secondAns = false;
         bool thirdAns = false;
+
         int element1 = stones[index];
 
-        if (prevValue + k == stones[index]) {
-            int jump = k + 1;
-            int element2 = element1 + jump;
-            auto it = find(stones.begin(), stones.end(), element2);
-            if (it != stones.end()) {
-                int nextIndex = it - stones.begin(); // convert into integer
-                firstAns = SolvingUsingRec(stones, nextIndex, jump, element1);
-            }
+        // ---------------- k + 1 ----------------
+
+        int jump = k + 1;
+
+        int element2 = element1 + jump;
+
+        auto it = stoneIndex.find(element2);
+
+        if (it != stoneIndex.end()) {
+
+            int nextIndex = it->second;
+
+            firstAns = SolvingUsingRec(stones, nextIndex, jump, stoneIndex);
         }
+
+        // ---------------- k - 1 ----------------
+
         if (k - 1 > 0) {
-            if (prevValue + k == stones[index]) {
-                int jump = k - 1;
-                int element2 = element1 + jump;
-                auto it = find(stones.begin(), stones.end(), element2);
-                if (it != stones.end()) {
-                    int nextIndex = it - stones.begin(); // convert into integer
-                    secondAns =
-                        SolvingUsingRec(stones, nextIndex, jump, element1);
-                }
-            }
-        }
-        if (prevValue + k == stones[index]) {
-            int jump = k;
+
+            int jump = k - 1;
+
             int element2 = element1 + jump;
-            auto it = find(stones.begin(), stones.end(), element2);
-            if (it != stones.end()) {
-                int nextIndex = it - stones.begin(); // convert into integer
-                thirdAns = SolvingUsingRec(stones, nextIndex, jump, element1);
+
+            auto it = stoneIndex.find(element2);
+
+            if (it != stoneIndex.end()) {
+
+                int nextIndex = it->second;
+
+                secondAns =
+                    SolvingUsingRec(stones, nextIndex, jump, stoneIndex);
             }
         }
 
-        return firstAns | secondAns | thirdAns;
+        // ---------------- k ----------------
+
+        int jump2 = k;
+
+        int element3 = element1 + jump2;
+
+        auto it2 = stoneIndex.find(element3);
+
+        if (it2 != stoneIndex.end()) {
+
+            int nextIndex = it2->second;
+
+            thirdAns = SolvingUsingRec(stones, nextIndex, jump2, stoneIndex);
+        }
+
+        return firstAns || secondAns || thirdAns;
     }
 
-    bool SolvingUsingMemo(vector<int>& stones, int index, int k, int prevValue,
+    bool SolvingUsingMemo(vector<int>& stones, int index, int k,
+                          unordered_map<int, int>& stoneIndex,
                           vector<vector<int>>& dp) {
-        // Base case-->>
+
+        // Base case
         if (index == stones.size() - 1) {
             return true;
         }
 
+        // Already calculated
         if (dp[index][k] != -1) {
             return dp[index][k];
         }
@@ -59,42 +83,62 @@ public:
         bool firstAns = false;
         bool secondAns = false;
         bool thirdAns = false;
+
         int element1 = stones[index];
 
-        if (prevValue + k == stones[index]) {
-            int jump = k + 1;
-            int element2 = element1 + jump;
-            auto it = find(stones.begin(), stones.end(), element2);
-            if (it != stones.end()) {
-                int nextIndex = it - stones.begin(); // convert into integer
-                firstAns =
-                    SolvingUsingMemo(stones, nextIndex, jump, element1, dp);
-            }
+        // ---------------- k + 1 ----------------
+
+        int jump = k + 1;
+
+        int element2 = element1 + jump;
+
+        auto it = stoneIndex.find(element2);
+
+        if (it != stoneIndex.end()) {
+
+            int nextIndex = it->second;
+
+            firstAns =
+                SolvingUsingMemo(stones, nextIndex, jump, stoneIndex, dp);
         }
+
+        // ---------------- k - 1 ----------------
+
         if (k - 1 > 0) {
-            if (prevValue + k == stones[index]) {
-                int jump = k - 1;
-                int element2 = element1 + jump;
-                auto it = find(stones.begin(), stones.end(), element2);
-                if (it != stones.end()) {
-                    int nextIndex = it - stones.begin(); // convert into integer
-                    secondAns =
-                        SolvingUsingMemo(stones, nextIndex, jump, element1, dp);
-                }
-            }
-        }
-        if (prevValue + k == stones[index]) {
-            int jump = k;
+
+            int jump = k - 1;
+
             int element2 = element1 + jump;
-            auto it = find(stones.begin(), stones.end(), element2);
-            if (it != stones.end()) {
-                int nextIndex = it - stones.begin(); // convert into integer
-                thirdAns =
-                    SolvingUsingMemo(stones, nextIndex, jump, element1, dp);
+
+            auto it = stoneIndex.find(element2);
+
+            if (it != stoneIndex.end()) {
+
+                int nextIndex = it->second;
+
+                secondAns =
+                    SolvingUsingMemo(stones, nextIndex, jump, stoneIndex, dp);
             }
         }
 
-        dp[index][k] = firstAns | secondAns | thirdAns;
+        // ---------------- k ----------------
+
+        int jump2 = k;
+
+         element2 = element1 + jump2;
+
+        auto it2 = stoneIndex.find(element2);
+
+        if (it2 != stoneIndex.end()) {
+
+            int nextIndex = it2->second;
+
+            thirdAns =
+                SolvingUsingMemo(stones, nextIndex, jump2, stoneIndex, dp);
+        }
+
+        dp[index][k] = firstAns || secondAns || thirdAns;
+
         return dp[index][k];
     }
 
@@ -118,15 +162,15 @@ public:
                 bool firstAns = false;
                 bool secondAns = false;
                 bool thirdAns = false;
-             int currentStone = stones[index];
+                int currentStone = stones[index];
 
                 //    for k+1-->
 
                 int jump = k + 1;
                 if (jump <= n) {
                     int nextStone = currentStone + jump;
-                    if(stoneIndex.find(nextStone) != stoneIndex.end()) {
-                         int nextIndex = stoneIndex[nextStone];
+                    if (stoneIndex.find(nextStone) != stoneIndex.end()) {
+                        int nextIndex = stoneIndex[nextStone];
                         firstAns = dp[nextIndex][jump];
                     }
                 }
@@ -135,20 +179,20 @@ public:
 
                 if (k - 1 > 0) {
                     int jump = k - 1;
-                 int nextStone = currentStone + jump;
-                     if(stoneIndex.find(nextStone) != stoneIndex.end()) {
-                         int nextIndex = stoneIndex[nextStone];
+                    int nextStone = currentStone + jump;
+                    if (stoneIndex.find(nextStone) != stoneIndex.end()) {
+                        int nextIndex = stoneIndex[nextStone];
                         secondAns = dp[nextIndex][jump];
                     }
                 }
 
                 // for k-->>
                 jump = k;
-               int nextStone = currentStone + jump;
-                if(stoneIndex.find(nextStone) != stoneIndex.end()) {
-                         int nextIndex = stoneIndex[nextStone];
-                        thirdAns = dp[nextIndex][jump];
-                    }
+                int nextStone = currentStone + jump;
+                if (stoneIndex.find(nextStone) != stoneIndex.end()) {
+                    int nextIndex = stoneIndex[nextStone];
+                    thirdAns = dp[nextIndex][jump];
+                }
                 dp[index][k] = firstAns | secondAns | thirdAns;
             }
         }
@@ -159,14 +203,24 @@ public:
     bool canCross(vector<int>& stones) {
         int n = stones.size();
         int k = 1;
+
+        // First jump must be 1
         if (stones.size() < 2 || stones[1] != 1) {
             return false;
         }
-        int prevValue = stones[0];
-        // bool ans=SolvingUsingRec(stones,1,k,prevValue);
-        // vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-        //  bool ans=SolvingUsingMemo(stones,1,k,prevValue,dp);
-        bool ans = SolvingUsingTab(stones);
+
+        // stone value -> index
+        unordered_map<int, int> stoneIndex;
+
+        for (int i = 0; i < n; i++) {
+            stoneIndex[stones[i]] = i;
+        }
+        //  bool ans = SolvingUsingRec(stones, 1, k, stoneIndex);
+
+        // index × jump
+        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
+        bool ans = SolvingUsingMemo(stones, 1, k, stoneIndex, dp);
+
         return ans;
     }
 };
