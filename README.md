@@ -32,6 +32,7 @@
 | [0704-binary-search](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -138,6 +140,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1922-count-good-numbers](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
@@ -311,4 +315,16 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
