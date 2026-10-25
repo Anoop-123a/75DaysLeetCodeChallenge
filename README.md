@@ -33,6 +33,7 @@
 | [0739-daily-temperatures](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
@@ -141,6 +142,7 @@
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0509-fibonacci-number](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
@@ -319,12 +322,15 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
