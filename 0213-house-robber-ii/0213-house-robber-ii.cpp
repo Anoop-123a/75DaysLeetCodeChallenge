@@ -38,6 +38,7 @@ public:
         return finalAns;
     }
 
+
     
     int solveUsingTab(vector<int>& nums,int start,int end) {
         // step-1-->>
@@ -63,6 +64,36 @@ public:
         return dp[start];
     }
 
+       
+    int solveUsingSpace(vector<int>& nums,int start,int end) {
+        // step-1-->>
+        // dp array create initialise
+        int n = nums.size();
+        int next1=0;
+        int next2=0;
+        int curr=0;
+
+        // step-3-->> reverse the flow loop,copy paste
+
+        for (int i = end; i >=start; i--) {
+            int temp = 0;
+            if (i + 2 <= end) {
+                temp = next2;
+            }
+
+            //  include-->>
+            int includeAns = nums[i] + temp;
+            // exclude->>
+            int excludeAns = 0 +next1;
+            curr = max(includeAns, excludeAns);
+            next2=next1;
+            next1=curr;
+        }
+
+        return curr;
+    }
+
+
     int rob(vector<int>& nums) {
         // Implement your solution logic here
         int n = nums.size();
@@ -76,9 +107,10 @@ public:
         // int case1 = solveUsingMemo(nums, 0, n - 2, dp1);
         //  vector<int> dp2(nums.size() + 1, -1);
         // int case2 = solveUsingMemo(nums, 1, n - 1, dp2);
-          int case1= solveUsingTab(nums,0,n-2);
-         int case2=  solveUsingTab(nums,1,n-1);
-        // int ans=solveUsingSpace(nums);
+        //   int case1= solveUsingTab(nums,0,n-2);
+        //  int case2=  solveUsingTab(nums,1,n-1);
+         int case1= solveUsingSpace(nums,0,n-2);
+         int case2=  solveUsingSpace(nums,1,n-1);
         return max(case1, case2);
     }
 };
