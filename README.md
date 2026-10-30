@@ -72,6 +72,7 @@
 | [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
@@ -343,4 +345,8 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0337-house-robber-iii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
