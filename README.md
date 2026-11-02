@@ -28,6 +28,7 @@
 | [0403-frog-jump](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
