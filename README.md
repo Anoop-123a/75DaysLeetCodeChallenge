@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
@@ -199,6 +200,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
@@ -231,6 +233,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
@@ -283,6 +286,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -312,6 +316,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/Anoop-123a/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 ## Knapsack Problem
